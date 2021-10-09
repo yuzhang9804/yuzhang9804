@@ -2,4 +2,5 @@
 
 I’m yuzhang
 
-- 🌱 Live in ShangHai
+- 🌱 Live in Shang Hai
+- 🍒 JavaScript Engineer
